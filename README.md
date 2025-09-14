@@ -1,6 +1,6 @@
 # Twitter_Sentiment_Analysis
 
-This project performs **Sentiment Analysis on Twitter data** to classify tweets into **Positive, Negative, or Neutral** sentiments.  
+This project performs **Sentiment Analysis on Twitter data** to classify tweets into **Positive, Negative** sentiments.  
 It uses **Natural Language Processing (NLP)** techniques and **Machine Learning/Deep Learning models** to analyze text and extract insights from social media.
 
 ---
